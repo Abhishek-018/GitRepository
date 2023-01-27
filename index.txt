@@ -1,1 +1,2 @@
 This is version one
+This file is modified when it is in staging area.
